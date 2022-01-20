@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="BBClogo.png" alt="BBC logo">
+        <nav>
+            <ul>
+                <li><a href="https://session.bbc.com/session?ptrt=https%3A%2F%2Fwww.bbc.com%2F&context=homepage&userOrigin=HOMEPAGE_GNL">Sign In</a></li>
+                <li><a href="https://www.bbc.com/">Home</a></li>
+                <li><a href="https://www.bbc.com/news">News</a></li>
+                <li><a href="https://www.bbc.com/sport">Sport</a></li>
+                <li><a href="https://www.bbc.com/reel">Reel</a></li>
+                <li><a href="https://www.bbc.com/worklife">Worklife</a></li>
+                <li><a href="https://www.bbc.com/travel">Travel</a></li>
+                <li><a href="https://www.bbc.com/future">Future</a></li>
+                <li><a href="https://www.bbc.com/culture">Culture</a></li>
+                <li><a href="https://www.bbc.com/#orb-footer">More</a></li>
+             <form>
+                <label for="Search">Search</label>
+                <input type="text" id="Search"><img src="https://nav.files.bbci.co.uk/searchbox/2432a71c53a3b82accd4f32608cae098/img/gel-icon-search-dark.svg" alt="magnifying glass">
+                <!--Data collection elements go here -->
+            </form>
+            </ul>
+           </nav>
+    </header>
+    <section>
+        <h2>Welcome to BBC.com</h2>
+        <Section>
+            <img src="UkrainianOfficer.jpg" alt="Ukrainian military officer on patrol at a boarder checkpoint in eastern Ukraine">
+            <h1>Ukraine hits back at Biden amid Russia tensions</h1>
+            <span><a href="https://www.bbc.com/news/world-europe-60072502">Its president bristles at suggestions a "minor" Russian attack may bring a weaker Western response.</a></span>
+            <span><a href="https://www.bbc.com/news/world/europe">EUROPE</a></span>
+        </Section>
+        <Section>
+            <img src="FormerPopeBenedictXVI.jpg" alt="Former Pope Benedict XVI waving">
+            <h2>Former pope failed to act over abuse - report</h2>
+            <span><a href="https://www.bbc.com/news/world-europe-60070132"></a></span>
+            <span><a href="https://www.bbc.com/news/world/europe">EUROPE</a></span>
+        </Section><Section>
+            <img src="HBOsGuildedAge.png" alt="Actress Christine Baranski as Agnes van Rhijn in sequin dress sits on elaborately carved couch">
+            <h2>HBO's new period epic is 'a delight' Ukraine hits back at Biden amid Russia tensions</h2>
+            <span><a href="https://www.bbc.com/culture/article/20220119-the-gilded-age-is-another-hit-from-downton-abbeys-writer"></a></span>
+            <span><a href="https://www.bbc.com/news/world/europe">CULTURE</a></span>
+        </Section><Section>
+            <img src="USEmbassyHavanaCuba.jpg" alt="US embassy in Havana, Cuba">
+            <h2>Most Havana syndrome not caused by adversary - CIA</h2>
+            <span><a href="https://www.bbc.com/news/world-us-canada-60068483"></a></span>
+            <span><a href="https://www.bbc.com/news/world/us_and_canada">US</a></span>
+        </Section><Section>
+            <img src="TennisMedvedev.png" alt="Daniil Medvedev waving">
+            <h2>'They probably have a low IQ' - Medvedev</h2>
+            <span><a href="https://www.bbc.com/sport/tennis/60065283"></a></span>
+            <span><a href="https://www.bbc.com/sport/tennis">TENNIS</a></span>
+        </Section>
+    </section>
+    <section>
+        <h2>News</h2>
+        <Section>
+            <img src="USCapitolSm.png" alt="U.S. Capitol dome">
+            <h2>Has the United States become ungovernable?</h2>
+            <p><a href="hhttps://www.bbc.com/news/world-us-canada-60036911">A president who promised to unite the country is unable to bring his own party together.</a></p>
+            <span><a href="https://www.bbc.com/news/world/us_and_canada">US & CANADA</a></span>
+        </Section>
+        <section>
+            <h2>Teen pilot completes solo round-world record bid</h2>
+            <img src="ZaraRutherford.png" alt="Teen Zara Rutherford waves from pilot seat">
+            <p><a href="https://www.bbc.com/news/uk-england-hampshire-59899980">Zara Rutherford endured extreme conditions during a trip that took two months longer than planned.</a></p>
+            <span><a href="https://www.bbc.com/news/england/hampshire">HAMPSHIRE & ISLE OF WIGHT</a></span>
+        </section>
+        <section>
+            <h2>Apple AirTags - 'A perfect tool for stalking'</h2>
+            <img src="AppleAirTags.png" alt="Apple AirTag">
+            <p><a href="https://www.bbc.com/news/technology-60004257">Apple's AirTags are great for finding lost items. But they have a darker side.</a></p>
+            <span><a href="https://www.bbc.com/news/technology">TECHNOLOGY</a></span>
+        </section>
+    </section>
+    
+    <section>
+        <h2>Sport</h2>
+        <Section>
+            <img src="Arsenal-Liverpool.png" alt="Arsenal & Liverpool coaches">
+            <h2>EFL Cup semi-final: Build-up to Arsenal v Liverpool - live text & radio</h2>
+            <p><a href="https://www.bbc.com/sport/live/football/59890410">Follow live text and BBC Radio 5 Live commentary as Arsenal host Liverpool in the second leg of their Carabao Cup semi-final.</a></p>
+            <span><a href="https://www.bbc.com/news/world/europe">FOOTBALL</a></span>
+        </Section>
+            <img src="UkrainianOfficer.jpg" alt="Ukrainian military officer on patrol at a boarder checkpoint in eastern Ukraine">
+            <h2>Holders Algeria crash out of Nations Cup</h2>
+            <p><a href="https://www.bbc.com/sport/football/59975483">Defending champions Algeria crash out of the Africa Cup of Nations as they lose their final group match 3-1 against Ivory Coast.</a></p>
+            <span><a href="https://www.bbc.com/sport/football">FOOTBALL</a></span>
+        </section>
+        <section>
+            <img src="UkrainianOfficer.jpg" alt="Ukrainian military officer on patrol at a boarder checkpoint in eastern Ukraine">
+            <h2>The Eastern European giant at war with itself</h2>
+            <p><a href="https://www.bbc.com/sport/football/59974018">European Cup winners in 1986, Steaua Bucharest's story of decline is unlike any other. A bitter dispute has split the club in two.</a></p>
+            <span><a href="https://www.bbc.com/sport/football/european">EUROPEAN FOOTBALL</a></span>
+        </section>
+    </section>
+    <section>
+        <h2>LONDON WEATHER</h2>
+        <img src="#" alt="4-day Weather">
+    </section>
+</body>
+</html>
